@@ -1,0 +1,2 @@
+ifstream helps in getting the content of the file.
+if we use getline the we can get the entire line content.
